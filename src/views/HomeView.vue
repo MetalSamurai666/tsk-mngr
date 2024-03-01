@@ -1,6 +1,5 @@
 <script setup>
-  import welcomeComp from "@/components/WelcomeComp.vue";
-
+  import WelcomeComp from "@/components/WelcomeComp.vue";
 </script>
 
 <template>
